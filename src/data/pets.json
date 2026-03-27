@@ -1,0 +1,103 @@
+{
+    "cats": [
+        {
+            "id": "bob",
+            "name": "Bob",
+            "sex": "Male",
+            "age": 3,
+            "image": "../../img/cat1.jpg",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam laborum reiciendis dignissimos, eum recusandae dolorum itaque corrupti eligendi nemo nihil harum optio assumenda odio ab sapiente doloribus, maiores beatae quasi."
+        },
+        {
+            "id": "lucy",
+            "name": "Lucy",
+            "sex": "Female",
+            "age": 7,
+            "image": "../../img/cat2.jpg",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam laborum reiciendis dignissimos, eum recusandae dolorum itaque corrupti eligendi nemo nihil harum optio assumenda odio ab sapiente doloribus, maiores beatae quasi."
+        },
+        {
+            "id": "choco",
+            "name": "Choco",
+            "sex": "Male",
+            "age": 9,
+            "image": "../../img/cat3.jpg",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam laborum reiciendis dignissimos, eum recusandae dolorum itaque corrupti eligendi nemo nihil harum optio assumenda odio ab sapiente doloribus, maiores beatae quasi."
+        },
+        {
+            "id": "chloe",
+            "name": "Chloe",
+            "sex": "Female",
+            "age": 7,
+            "image": "../../img/cat4.jpg",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam laborum reiciendis dignissimos, eum recusandae dolorum itaque corrupti eligendi nemo nihil harum optio assumenda odio ab sapiente doloribus, maiores beatae quasi."
+        },
+        {
+            "id": "oscar",
+            "name": "Oscar",
+            "sex": "Male",
+            "age": 10,
+            "image": "../../img/cat5.jpg",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam laborum reiciendis dignissimos, eum recusandae dolorum itaque corrupti eligendi nemo nihil harum optio assumenda odio ab sapiente doloribus, maiores beatae quasi."
+        },
+        {
+            "id": "mia",
+            "name": "Mia",
+            "sex": "Female",
+            "age": 6,
+            "image": "../../img/cat6.jpg",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam laborum reiciendis dignissimos, eum recusandae dolorum itaque corrupti eligendi nemo nihil harum optio assumenda odio ab sapiente doloribus, maiores beatae quasi."
+        }
+    ],
+
+    "dogs": [
+        {
+            "id": "max",
+            "name": "Max",
+            "sex": "Male",
+            "age": 10,
+            "image": "../../img/dog1.jpg",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam laborum reiciendis dignissimos, eum recusandae dolorum itaque corrupti eligendi nemo nihil harum optio assumenda odio ab sapiente doloribus, maiores beatae quasi."
+        },
+        {
+            "id": "sky",
+            "name": "Sky",
+            "sex": "Female",
+            "age": 8,
+            "image": "../../img/dog2.jpg",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam laborum reiciendis dignissimos, eum recusandae dolorum itaque corrupti eligendi nemo nihil harum optio assumenda odio ab sapiente doloribus, maiores beatae quasi."
+        },
+        {
+            "id": "charlie",
+            "name": "Charlie",
+            "sex": "Male",
+            "age": 9,
+            "image": "../../img/dog3.jpg",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam laborum reiciendis dignissimos, eum recusandae dolorum itaque corrupti eligendi nemo nihil harum optio assumenda odio ab sapiente doloribus, maiores beatae quasi."
+        },
+        {
+            "id": "ruby",
+            "name": "Ruby",
+            "sex": "Female",
+            "age": 10,
+            "image": "../../img/dog4.jpg",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam laborum reiciendis dignissimos, eum recusandae dolorum itaque corrupti eligendi nemo nihil harum optio assumenda odio ab sapiente doloribus, maiores beatae quasi."
+        },
+        {
+            "id": "bear",
+            "name": "Bear",
+            "sex": "Male",
+            "age": 4,
+            "image": "../../img/dog5.jpg",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam laborum reiciendis dignissimos, eum recusandae dolorum itaque corrupti eligendi nemo nihil harum optio assumenda odio ab sapiente doloribus, maiores beatae quasi."
+        },
+        {
+            "id": "zoe",
+            "name": "Zoe",
+            "sex": "Famale",
+            "age": 6,
+            "image": "../../img/dog6.jpg",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam laborum reiciendis dignissimos, eum recusandae dolorum itaque corrupti eligendi nemo nihil harum optio assumenda odio ab sapiente doloribus, maiores beatae quasi."
+        }
+    ]
+}
